@@ -32,36 +32,36 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [ ] Create a working click handler that retrieves user input, pushes new items to your song arrays, and displays the result to the screen
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 
 ## JavaScript
-- [ ] Comment out your code that refers to arrays
-- [ ] Create Objects in your playlist project that hold all your song information
-- [ ] Combine all your Objects into one array
+- [x] Comment out your code that refers to arrays
+- [x] Create Objects in your playlist project that hold all your song information
+- [x] Combine all your Objects into one array
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 4
 
 ## JavaScript
 
-- [ ] Update your .push() method based on your new array of Objects
-- [ ] Update your loop based on your new array of Objects
-- [ ] Finish refactoring your playlist project
+- [X] Update your .push() method based on your new array of Objects
+- [x] Update your loop based on your new array of Objects
+- [ x Finish refactoring your playlist project
 
 #### Wrap
 - [ ] Push your changes!
 
 ## Project Extensions:
-- [ ] Add in your own CSS to personalize your project
-- [ ] Use .length to display how many songs are on your list
-- [ ] Add a delete button to delete songs on your list
-- [ ] Refactor your project further by utilizing functions to simplify your code
-- [ ] Add a shuffle button and functionality
-- [ ] Use local storage to save your songs locally
+- [x] Add in your own CSS to personalize your project
+- [x] Use .length to display how many songs are on your list
+- [x] Add a delete button to delete songs on your list
+- [x] Refactor your project further by utilizing functions to simplify your code
+- [x] Add a shuffle button and functionality
+- [x] Use local storage to save your songs locally
 
 
 ## References/Tools
